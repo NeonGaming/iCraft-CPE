@@ -1,0 +1,107 @@
+09/03/2013 (07:01:23) -    INFO - Loading plugins...
+09/03/2013 (07:01:23) -    INFO - World 'default' Booted.
+09/03/2013 (07:01:23) -    INFO - 84 garbage objects collected, 0 were uncollected.
+09/03/2013 (07:01:23) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/9e9a34e2fe1cd81f74e34f073a2b5965
+09/03/2013 (07:01:24) -    INFO - There are 0 users on the server
+09/03/2013 (07:01:24) -    INFO - default: 
+09/03/2013 (07:01:40) -    INFO - 127.0.0.1 is joining world worlds/default
+09/03/2013 (07:01:40) -    INFO - (127.0.0.1:52988) Connected, as 'AndrewPH'
+09/03/2013 (07:01:48) -    INFO - (127.0.0.1:52988) AndrewPH just used: /help
+09/03/2013 (07:01:53) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdlist build
+09/03/2013 (07:02:00) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdblock
+09/03/2013 (07:02:01) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmd
+09/03/2013 (07:02:04) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmd hi
+09/03/2013 (07:02:21) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmd
+09/03/2013 (07:02:23) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmd
+09/03/2013 (07:02:23) -    INFO - World 'default' has been saved.
+09/03/2013 (07:02:24) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/9e9a34e2fe1cd81f74e34f073a2b5965
+09/03/2013 (07:02:24) -    INFO - There are 1 users on the server
+09/03/2013 (07:02:24) -    INFO - default: AndrewPH
+09/03/2013 (07:02:28) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:02:32) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cancel
+09/03/2013 (07:02:36) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend cancel
+09/03/2013 (07:02:40) -    INFO - AndrewPH: cmdend/
+09/03/2013 (07:02:43) -    INFO - (127.0.0.1:52988) AndrewPH just used: /
+09/03/2013 (07:02:45) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:02:49) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:02:53) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend save
+09/03/2013 (07:03:02) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:04) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:05) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:05) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:06) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:06) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:06) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:06) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:07) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:07) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:07) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:07) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:08) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:08) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:08) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:08) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:09) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:09) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:09) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:09) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:10) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:10) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:10) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:11) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:11) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:11) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:11) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:12) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:12) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:12) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:12) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:12) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:13) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:14) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:14) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:14) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:15) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:15) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:16) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:16) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:16) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmdend
+09/03/2013 (07:03:23) -    INFO - World 'default' has been saved.
+09/03/2013 (07:03:24) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/9e9a34e2fe1cd81f74e34f073a2b5965
+09/03/2013 (07:03:24) -    INFO - There are 1 users on the server
+09/03/2013 (07:03:24) -    INFO - default: AndrewPH
+09/03/2013 (07:03:27) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmddell
+09/03/2013 (07:03:29) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmddel
+09/03/2013 (07:03:32) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmddelend
+09/03/2013 (07:04:23) -    INFO - World 'default' has been saved.
+09/03/2013 (07:04:24) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/9e9a34e2fe1cd81f74e34f073a2b5965
+09/03/2013 (07:04:24) -    INFO - There are 1 users on the server
+09/03/2013 (07:04:24) -    INFO - default: AndrewPH
+09/03/2013 (07:05:23) -    INFO - World 'default' has been saved.
+09/03/2013 (07:05:25) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/9e9a34e2fe1cd81f74e34f073a2b5965
+09/03/2013 (07:05:25) -    INFO - There are 1 users on the server
+09/03/2013 (07:05:25) -    INFO - default: AndrewPH
+09/03/2013 (07:06:23) -    INFO - World 'default' has been saved.
+09/03/2013 (07:06:25) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/9e9a34e2fe1cd81f74e34f073a2b5965
+09/03/2013 (07:06:25) -    INFO - There are 1 users on the server
+09/03/2013 (07:06:25) -    INFO - default: AndrewPH
+09/03/2013 (07:07:23) -    INFO - World 'default' has been saved.
+09/03/2013 (07:07:25) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/9e9a34e2fe1cd81f74e34f073a2b5965
+09/03/2013 (07:07:25) -    INFO - There are 1 users on the server
+09/03/2013 (07:07:25) -    INFO - default: AndrewPH
+09/03/2013 (07:07:44) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmddel
+09/03/2013 (07:07:46) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmddelend
+09/03/2013 (07:07:51) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmddel
+09/03/2013 (07:07:54) -    INFO - (127.0.0.1:52988) AndrewPH just used: /cmddelend
+09/03/2013 (07:08:23) -    INFO - World 'default' has been saved.
+09/03/2013 (07:08:26) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/9e9a34e2fe1cd81f74e34f073a2b5965
+09/03/2013 (07:08:26) -    INFO - There are 1 users on the server
+09/03/2013 (07:08:26) -    INFO - default: AndrewPH
+09/03/2013 (07:09:23) -    INFO - World 'default' has been saved.
+09/03/2013 (07:09:26) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/9e9a34e2fe1cd81f74e34f073a2b5965
+09/03/2013 (07:09:26) -    INFO - There are 1 users on the server
+09/03/2013 (07:09:26) -    INFO - default: AndrewPH
+09/03/2013 (07:10:23) -    INFO - World 'default' has been saved.
+09/03/2013 (07:10:26) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/9e9a34e2fe1cd81f74e34f073a2b5965
+09/03/2013 (07:10:26) -    INFO - There are 1 users on the server
+09/03/2013 (07:10:26) -    INFO - default: AndrewPH

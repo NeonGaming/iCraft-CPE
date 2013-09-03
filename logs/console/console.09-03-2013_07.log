@@ -1,0 +1,35 @@
+09/03/2013 (06:58:54) -    INFO - Loading plugins...
+09/03/2013 (06:58:54) -    INFO - World 'default' Booted.
+09/03/2013 (06:58:54) -    INFO - 82 garbage objects collected, 0 were uncollected.
+09/03/2013 (06:58:54) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/9e9a34e2fe1cd81f74e34f073a2b5965
+09/03/2013 (06:58:55) -    INFO - There are 0 users on the server
+09/03/2013 (06:58:55) -    INFO - default: 
+09/03/2013 (06:59:28) -    INFO - 127.0.0.1 is joining world worlds/default
+09/03/2013 (06:59:28) -    INFO - (127.0.0.1:52919) Connected, as 'AndrewPH'
+09/03/2013 (06:59:30) -    INFO - AndrewPH: helo
+09/03/2013 (06:59:37) -    INFO - (127.0.0.1:52919) AndrewPH just used: /cmdblocks
+09/03/2013 (06:59:39) -    INFO - (127.0.0.1:52919) AndrewPH just used: /cmdblock
+09/03/2013 (06:59:40) -    INFO - (127.0.0.1:52919) AndrewPH just used: /c
+09/03/2013 (06:59:41) -    INFO - (127.0.0.1:52919) AndrewPH just used: /cmd
+09/03/2013 (06:59:43) -    INFO - (127.0.0.1:52919) AndrewPH just used: /help
+09/03/2013 (06:59:46) -    INFO - (127.0.0.1:52919) AndrewPH just used: /help cmdlist
+09/03/2013 (06:59:48) -    INFO - (127.0.0.1:52919) AndrewPH just used: /cmdlist
+09/03/2013 (06:59:54) -    INFO - World 'default' has been saved.
+09/03/2013 (06:59:55) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/9e9a34e2fe1cd81f74e34f073a2b5965
+09/03/2013 (06:59:55) -    INFO - There are 1 users on the server
+09/03/2013 (06:59:55) -    INFO - default: AndrewPH
+09/03/2013 (07:00:00) -    INFO - (127.0.0.1:52919) AndrewPH just used: /cmdlist categories
+09/03/2013 (07:00:03) -    INFO - (127.0.0.1:52919) AndrewPH just used: /cmdlist build
+09/03/2013 (07:00:22) -    INFO - (127.0.0.1:52919) AndrewPH just used: /loadplugin
+09/03/2013 (07:00:25) -    INFO - (127.0.0.1:52919) AndrewPH just used: /pluginload cmdblocks
+09/03/2013 (07:00:27) -    INFO - (127.0.0.1:52919) AndrewPH just used: /load
+09/03/2013 (07:00:29) -    INFO - (127.0.0.1:52919) AndrewPH just used: /pload
+09/03/2013 (07:00:54) -    INFO - World 'default' has been saved.
+09/03/2013 (07:00:55) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): http://www.classicube.net/server/play/9e9a34e2fe1cd81f74e34f073a2b5965
+09/03/2013 (07:00:55) -    INFO - There are 1 users on the server
+09/03/2013 (07:00:55) -    INFO - default: AndrewPH
+09/03/2013 (07:01:02) -    INFO - (127.0.0.1:52919) AndrewPH just used: /cmdlist other
+09/03/2013 (07:01:12) -    INFO - (127.0.0.1:52919) Disconnected 'AndrewPH'
+09/03/2013 (07:01:12) -    INFO - Saving server metas...
+09/03/2013 (07:01:12) -    INFO - Flushing worlds to disk...
+09/03/2013 (07:01:12) -    INFO - Saving: worlds/default

@@ -1,0 +1,79 @@
+Thanks for choosing iCraft as your Creative Multiplayer software.
+
+=========================
+========== NOTE:
+=========================
+
+iCraft is NOT for Beta, so the Beta client will NOT work.
+
+=========================
+========== DISCUSSION:
+=========================
+
+irc.esper.net #icraft
+helplarge.com/icraft
+
+=========================
+========== EXTRAS:
+=========================
+
+Here are several extras for iCraft that make you experience better.
+
+Texture Packs - http://hlmc.net/tp/
+Artwork (Logos/iCons) - /extras/artwork/
+Convert (dat to gz/meta) - /extras/converter/
+Topographer (2D topdown Mapping) - /extras/topographer/
+Status Script (Python Website) - /extras/website/
+Archiver (Archives Worlds from Servers) - /extras/archiver.py
+
+=========================
+========== INTERACT:
+========== (cmdblocks)
+=========================
+
+Go here to get them (as they no longer ship)
+https://bitbucket.org/iKJames/Interact/
+
+Make sure to check for updates often.
+and ask for more in irc.freenode.net #interact
+
+=========================
+========== INSTALL:
+=========================
+
+Step 1: Install Python 2.6. Python 2.5/2.7 may work, Python 3.x WON'T
+
+Step 2 [Optional]: Go install the Python APSW software if you want to
+use blocktracking.
+
+Step 3: Go install Interact
+See more information in "INTERACT"
+
+Step 4: Follow section a + c (b IF you want a irc bot)
+
+a. Configure the config files found in the config folder - rename all
+of them with .example.conf to .conf (skip to c for no irc bot)
+
+b: Only rename irc.example.conf to irc.conf if you want to have a irc
+bot for your server.
+
+c: Rename and modify the .example.txt files to .txt
+
+Step 5: Launch using Python..then get on and enjoy iCraft, as it
+should now be working. Good luck with your server.
+
+=========================
+========== UPGRADE:
+=========================
+
+There is no upgrade guide.
+Just use common sense at this time.
+
+=========================
+========== CREDITS:
+=========================
+
+This README was written by iKJames for iCraft users, this is to guide
+you to install iCraft properly. THERE IS NO WARRANTY FOR FOLLOWING THIS
+README, IF DAMAGE TO YOUR SYSTEM IS DONE THEN THE ICRAFT TEAM IS NOT
+RESPONSIBLE FOR THE DAMAGES.

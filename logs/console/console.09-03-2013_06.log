@@ -1,0 +1,19 @@
+09/03/2013 (06:58:22) -    INFO - Loading plugins...
+09/03/2013 (06:58:22) -    INFO - World 'default' Booted.
+09/03/2013 (06:58:22) -    INFO - 82 garbage objects collected, 0 were uncollected.
+09/03/2013 (06:58:22) -   ERROR - Traceback (most recent call last):
+  File "C:\Users\Andrew\Documents\git\iCraft-CPE\core\server.py", line 83, in get_url
+    })), 30)
+  File "C:\Python27\lib\urllib2.py", line 127, in urlopen
+    return _opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 402, in open
+    req = meth(req)
+  File "C:\Python27\lib\urllib2.py", line 1123, in do_request_
+    'Content-length', '%d' % len(data))
+TypeError: object of type 'int' has no len()
+
+09/03/2013 (06:58:23) -    INFO - There are 0 users on the server
+09/03/2013 (06:58:23) -    INFO - default: 
+09/03/2013 (06:58:46) -    INFO - Saving server metas...
+09/03/2013 (06:58:46) -    INFO - Flushing worlds to disk...
+09/03/2013 (06:58:46) -    INFO - Saving: worlds/default

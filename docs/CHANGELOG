@@ -1,0 +1,518 @@
+=========================
+
+Unversioned:
+Many changes, no versions, ...
+
+Pointless to even track, etc.
+This is now for historical purposes.
+
+=========================
+
+v3.0.6:
+Version incement to determine if applied.
+
+- Part 2 of many minor changes and fixes
+- Security Exploit at last, once and for all (3.0.2-3.0.5)
+- Make sure to apply this!
+
+=========================
+
+v3.0.5:
+Version increment to determine if applied.
+
+- Many minor changes and fixes (some you don't want to miss)
+- Security Exploit Fix also (make sure to apply then!)
+
+=========================
+
+v3.0.4:
+
+ADDED:
+- Various IRC Bot checks for configurationn
+
+FIXED:
+- Problem with not being able to demote Global Builders
+- Where guests were like Global Builders (security exploit!)
+- Error while shutting down default
+- Status Script breaking
+- Server Exit
+
+CHANGED:
+- Backend for VIPs (yellow namers)
+
+=========================
+
+v3.0.3:
+
+ADDED:
+- Method to turn off StaffChat's IRC Relay (gets spammy, fast!)
+- IRC Server/Channel Display (turn off the IRC Bot!)
+
+FIXED:
+- Attempt at fixing pets/pfields
+- Problem loading various maps
+- Reloading default
+- ipbans not working if specifying a offline username
+- solids on/off not working
+- Creating new worlds, a error didn't display right
+
+=========================
+
+v3.0.2:
+NOTE: There was also a code cleanup.
+Fixes a security exploit (3.0 did also)
+
+ADDED:
+- DSC reload command to the irc bot
+- Global Builder (Same Commands and Color as World Builder)
+- Option to configure how many entities per world
+
+FIXED:
+- Crashes with entities
+- Error with grieferdetector
+- Error with making the isoimage folder
+- Method of exiting/quitting the server
+- start.bat in extras
+- A few bugs with jail
+- The rare reqs folder problems
+- Command override for 'reload'
+- Problem with lines that are too short
+- pl* commands not working
+
+=========================
+
+v3.0.1:
+NOTE: This does not list all the changes, some were minor or in the back end.
+
+ADDED:
+- Dynamic Server Config (DSC)
+- New away kick time, build limit and global color/chat options
+
+CHANGED:
+- Code cleanup (tabs are now 4 spaces)
+- Some of the file structure (templates/archives in core, isoimage in core, extras)
+- The ISE's in entities
+- The Member rank is now above guests and below builders
+
+FIXED:
+- Templates folder missing
+- All the /help commands to be more understandable
+- The /worlds command sometimes showing worlds beginning with a dot
+
+=========================
+
+v3.0:
+This changes everything. Again.
+
+Now with many improvements compared to the Public Beta.
+Includes the following changes (and much more not listed);
+
+ADDED:
+- A message for if the reqs folder doesn't exist
+- A new Python Status Script
+- More templates with even more to come
+
+CHANGED:
+- The myne folder to be core
+- The names of several plugins
+- server.conf to split it up in to several files
+
+FIXED:
+- The console not printing everything after startup
+- It so that entities will work
+- The away kick to properly work
+- The heartbeat so the server is more stable
+- The controller to work better
+
+=========================
+
+v3.0 Public Beta:
+Giving a taste as we need feedback to improve for the 3.0 release.
+
+There's many under the hood improvements, including a new file structure, and much more..
+
+=========================
+
+v2.666 (for Mac v1.666):
+Dedicated to the Devil
+
+- Fixed the import problem encountered from server startup (run.py)
+
+=========================
+
+v2.6.6 (for Mac v1.1.4):
+
+FIXED:
+- Friendly Errors with server startup
+- Friendly Errors not being logged to the console logs
+
+=========================
+
+v2.6.5 (for Mac v1.1.3):
+
+FIXED:
+- Error with unspeccing certain people
+- Error with solids
+- Improved friendly errors
+- Improved the credits to be much better
+- Problem still existing with /info
+- Problem with restoring worlds
+- Problem with zones listing users without line breaking
+- Pontential problems in the irc bot
+
+=========================
+
+v2.6.4 (for Mac v1.1.2):
+
+FIXED:
+- Problem with the Heartbeat, this is the heart of this release (and the reason it was issued in the first place)
+- Added a new Internal Server Error (makes it easier for everyone to report errors)
+- Fixed various staff commands for if no staff existed
+- Fixed /motd to display properly
+- Updated the credits to add a team member
+
+=========================
+
+v2.6.3 (for Mac v1.1.1):
+URGENT: FIXED A SECURITY EXPLOIT
+
+CHANGED:
+- Made it you need to type in a template when using /new
+- Display of Internal Server Error for when they happen
+- Reformatted urgent (Urgent not URGENT)
+- IRC, it works and feels a lot better now
+- about to include the server description (greeting in motd)
+- Titles, now warn you if too long - longer titles, more control!
+
+FIXED:
+- Bug with giving builder rank for players ranked lower then mod
+- Error in the irc bot with banreason
+- Code cleanup for the help on chats
+- Deprecation of the cmdlist all command
+- Tweaking the coloring in the irc bot
+- Typo in the /free command
+- Pontential map save bug
+- Console responding oddly with kicks
+- Formatting for help and credits commands
+- The coloring for /away if reason is shown
+- Made fetch work a lot better, no more loosing long messages
+- srb is now a lot better, people now can't duplicate via urgent
+- Typo in /help directors
+- Error dealing with ASD (no more YOU HAS ERROR's!)
+- Problem with shutting down default
+- Error with making a backup
+- Errors with too many arguments in commands
+- Problems if minecraft.net is offline
+- Error stuff deaing with Alpha clients
+
+=========================
+
+v2.6.2 (for Mac v1.1.0):
+
+ADDED:
+- Can now make backups with a name
+- More help for commands that didn't have a entry before
+- A cmdhelp command, explains what cmdblocks can do and use
+- redo command, now you can redo what you undo
+- Added rank numbers to /help ranks
+
+CHANGED:
+- Death messages to tell the cause of death
+- Formatting of the count command
+- Overhauled the help, about and cmdlist commands
+- Old helps to be more helpful
+
+FIXED:
+- Fixing bug with rotate if you didn't copy first
+- Where you needed a recthird for the third point for polytri and curve
+- Prevented entities from being used in blb and related commands
+- cmdblocks not being able to make builders in the map
+- Some cmdblocks that could be used for cmdblocks
+- StaffChat was broke in IRC
+- More problems with gchat
+- Problem with using rank op from irc
+- World Owner username lowercasing
+- info command messing with the map
+- Problem with certian ranks being able to build solid, water and lava in other worlds if they couldn't
+- Error when they did a invalid block while using bind
+
+=========================
+
+v2.6.1 (for Mac v1.0.1):
+
+ADDED:
+- Folder containing Artwork (logos and such)
+- The Topographer, which makes a top-down view of maps
+
+CHANGED:
+- The folder 'mapconverter' to 'converter'
+- The folder 'status' to 'website'
+- Lava to only kill if moving kind (can edit to change for old way)
+- grieferdetector's coloring (darkgreen then darkred)
+
+FIXED:
+- If bots.esper.net is the network it'll display irc.esper.net in /about
+- The problem caused by Mobs disconnecting people.
+- Problem with lava while loading a unloaded world
+- Errors still showing when we didn't want them to
+- Out of bounds errors
+- A irc color code showing in the console, when it never should of
+- More logging related stuff
+- Made it so that only default boots up each time (prevents threading issues with a huge amount of worlds, makes it easier to recover from)
+- Fixed errors caused in the console
+- Pontential bug allowing people to tweet from cmdblocks (possible security concern)
+- Improved Garbage Collection (pontential memory leaks and new information display)
+
+=========================
+
+v2.6.0 (for Mac v1.0.0);
+- Initial release on Mac, introduces proper Mac support.
+
+ADDED:
+- dirtbomb, which is something we're unsure about
+- blockindex command, which gives you the number of a block
+- lsystem commands, which is very complex
+- creplace command, which replaces a checkered area
+- fill command, fills in 2d area
+- Saying './' will now escape the command to show like '/' not './' (along with '.!', '.@', and '.#')
+- undelete command to restore deleted worlds
+- zdelall command, deletes all zones if you can delete them
+- /help cc - now you can easily see the color codes.
+- zwho command, determines what zone you're in
+- deleted command, shows deleted worlds (works like /worlds in a way)
+- Many more aliases for commands
+- Start of coloring for the irc bot
+- New methods to type colors in the game
+- undo command, it undoes what you or someone else did
+- jail commands, you can jail people
+- proxmine mob
+- var mob (var for variable), the greatest mob yet!
+- Limit of mobs for each world (40)
+- worldban command, it bans a user from a world
+- worldbanned command, gives a list of whos banned from the world
+- zrename command, this allows you to rename zones
+- cloud mob, so you can have rain
+- backups command, now you can see all backups that a world has
+- Various types of cannons - try them
+- Mob Spawner to spawn mobs
+
+CHANGED:
+- worlds command, greatly improved
+- zshow, now you can do zshow all and it'll show all zones
+- World Owner to be DarkYellow for display
+- Staff display
+- Staff command will pm the user instead (due to pings)
+- msgblocks to support colors in the beginning
+- Made it where Actions show differently (like IRC)
+- Zones now add the Creator on default unless otherwise specified after the "user" param
+- Fetch now asks if they want to be fetched first
+- templates command, now it's Admin+
+- back command to show as darkpurple due to irc relay
+- Mobs, they got a bit of a overhaul (call them entities now)
+- count command to be Op+
+
+FIXED:
+- Creeper-related error
+- Some display problems for certain commands
+- server.conf not containing ALL plugins
+- Bug where /create didn't properly match the xyz like /status
+- setowner to not at like the player who typed it got it
+- Typo of 'payername' in freeze/unfreeze commands
+- Where /help ranks didn't look proper
+- A message in the protocol
+- Console coloring in-game
+- Aliases ordering
+- StaffChat IRC/Console Problems
+- Console showing as Yellow and not DarkGreen
+- Zones having a issue removing a user in certain cases
+- Many errors in the code due to various actions
+
+KNOWN ISSUES:
+- Console doesn't work properly for certain commands
+- Entities sometimes causes errors in certain cases
+- fetch command doesn't override the fetch request if Director+
+- the invite command is still under construction
+- and some other problems we may or may not be aware of
+
+=========================
+
+v2.5.2:
+
+CHANGED:
+- Tweets now sent out use a different format, hashtag in the end instead of parenthesis in the front
+
+FIXED:
+- Creeper Mob crashing the users in certain cases
+- A bcb message mentioning blb
+- auto-cpr- now it'll restart after 3 minutes not 5, avoiding the 5 minute rule
+
+REMOVED:
+- Cloud mob - was too buggy (should of been commented out)
+
+=========================
+
+v2.5.1:
+
+ADDED:
+- More yellow names
+- More people to the credits list
+
+FIXED:
+- Chat should now wrap more properly
+- credits will display properly in irc
+
+=========================
+
+v2.5.0:
+- Removed WoM specs, we no longer grab new specs.
+
+ADDED:
+- line command to make lines
+- pyramid command
+- stairs command for spiral staircases
+- curve command
+- recthird command for things needing 3 block changes (still needs conversion)
+- bwb to build wall blocks
+- bhcb to build hollow blocks that are checkered
+- bcb to build checkered blocks
+- csphere command
+- circle command
+- dome command
+- ellipsoid command
+- polytri command
+- info command to view block info
+- Many IRC Admin commands
+- StaffChat to IRC
+- Various mobs, have fun!
+- sendPlainWorldMessage for plugins, useful if you need a WorldMessage using color.
+- Fully redone server.conf
+- imagedraw, draws images from a URL (needs PIL)
+- mine command, step over and it'll explode
+- Python syntax to IFs (need quotes)
+- $rank and $rnum for cmdblocks
+- $posx, $posy, $posz and $posa to cmdblocks
+- cmdblocks can now make builders/ops and take them away
+- Members, they're global builders with some extras
+- Categories for cmdlist
+- gchat command
+- partial names in username commands
+- create command, it'll let you generate maps with the power of 2 - reduces the needs for flatgrass templates
+- delete command, now it deletes worlds to its own folder
+- Platform-based fly command
+- Colorful logging
+- Teal in block list
+- Word Filter
+- Status script
+- Converter
+- Archiver
+- Many alises for various commands, allowing old commands to work and ease transitions from other softwares
+- Anti-Grief
+- Bash script for Linux users
+- members command, lists all members
+- specced command, shows a list of specced users
+- banned command, shows banned users
+- World Owner rank, can op/deop
+- Many more variables for cmdblocks
+- Pages for cmdinfo
+- freeze, which freezes the player in position
+- twitter plugin
+- Many new aliases for block names
+- Now you can change the name of default
+
+CHANGED:
+- Last block changes now stores the last 3 points, not 2
+- backups can now be renamed without being overwritten
+- tnt and lava
+- All chats take your rank in for display purposes
+- specs now show as Black
+- complete overhaul to server.conf
+- Directors limit is now unlimited (1024 cubed)
+- Owners can now be case-insensitive.
+- The license is now the CC by-nc-sa 3.0
+- about, it's now more detailed
+- More descriptive errors.
+- start.bat now works
+- Console now displays as darkgreen
+- verify_names is now hardcoded as on
+- "Spectator" now shows as "Spec" to the user
+- 20 commands limit is now 50 commands for cmdblocks
+- msgblocks now show as green
+- StaffChat now formats like WorldChat and Whispers
+- Console logs go under the console folder in logs
+- Currency is now called Minecash
+- Some block color names being updated to match minecraftwiki.net
+
+FIXED:
+- heartbeating
+- away/back not showing IRC/Console
+- space in the self command of cmdblocks
+- Logging
+- Dispay problems with /status
+- Alert for new inbox messages (was broke)
+- Owner rank, now finished (can director/dedirector)
+- restore taking you to default (now it'll take you back when finished)
+- Duplicate messages
+- Now you can restore default
+
+=========================
+
+v2.0.4:
+SECURITY: /pay using negative amounts (was Mod+, now Director+)
+
+=========================
+
+v2.0.3:
+Rick Roll'd
+
+=========================
+
+v2.0.2:
+
+FIXED:
+- LAN Support
+- bind/replace not working correctly
+- wait in Interact (cmdblocks)
+
+=========================
+
+v2.0.1:
+- cmdblocks use the Interact Programming Langauge, the first ever Minecraft Programming Langauge (you interact and program it all in game!)
+
+SECURITY:
+- Heartbeats are now safer
+
+ADDED:
+- Server URL logged to url.txt
+- blb, bhb, bwb, and replace for portals and msgblocks
+- wait in cmdblocks
+- Last command stuff via /b
+- $block(x,y,z) and $bname(blockint) and $bname($blockChanged(x,y,z)) for cmdblocks
+- IF's for cmdblocks
+- builder/op'ing in cmdblocks
+- 20 commands limit instead of 10 for cmdblocks, this'll allow even more rich enviorments then before
+- GetBlockValue function
+- getinput, getnum, getblock, getyesno to cmdblocks (inputs)
+- global dic() vars: ServerVars, ClientVars, and WorldVars
+
+FIXED:
+- cmdblocks for guests (they got spammed if they couldn't do it)
+- Portals to use new /l based system
+- None has disconnected.
+- Help for ban and banb
+- Speccing offline people
+- Error logging for cmdblocks
+- tnt and tree (tnt is improved, works great with lava)
+- IRC Bot
+- Blocks not showing up if Guest/Builder (finally you can catch griefers)
+- unflood (no longer removes spouts)
+
+REMOVED:
+- admin commands from IRC (there is none!)
+
+=========================
+
+v2.0:
+Initial Release
+This changes everything.
+
+=========================
