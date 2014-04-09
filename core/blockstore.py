@@ -34,6 +34,8 @@
 #    Or, send a letter to Creative Commons, 171 2nd Street,
 #    Suite 300, San Francisco, California, 94105, USA.
 
+#Testing IRC Hook
+
 import os, gzip, struct, mmap, logging, time
 from threading import Thread
 from Queue import Queue
